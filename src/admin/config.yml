@@ -28,7 +28,7 @@ collections:
           name: 'tags',
           widget: 'select',
           multiple: true,
-          min: 1,
+          min: 0,
           max: 3,
           options: ['Biases','Rationality', 'Heuristics'],
           default: ['Biases'],
