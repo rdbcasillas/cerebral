@@ -3,7 +3,6 @@ title: Ep1 Attribution Biases
 url: https://open.spotify.com/embed-podcast/episode/0GOMbMj81Z5oVR9VtiF5Cw 
 author: vatsal 
 tags:
-  - Biases
 excerpt: Our assumptions behind others' behavior need examination 
 date: 2020-12-05
 featuredImage: uploads/attribution.jpg

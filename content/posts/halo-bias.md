@@ -3,7 +3,6 @@ title: Ep6 Halo Bias
 url: https://open.spotify.com/embed-podcast/episode/1hbdWiMwJoBtCzEVhNbdjR
 author: vatsal 
 tags:
-  - Biases
 excerpt: Careful around charismatic people! 
 date: 2021-02-14
 featuredImage: uploads/halo-effect.jpg

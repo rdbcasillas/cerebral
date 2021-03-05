@@ -3,7 +3,6 @@ title: Ep3 Spotlight Effect
 url: https://open.spotify.com/embed-podcast/episode/34SEzbeexTjn2zMMbUf98o
 author: vatsal 
 tags:
-  - Biases
 excerpt: You are not the center of everyone else's mind 
 date: 2020-12-19
 featuredImage: uploads/spotlight.jpg

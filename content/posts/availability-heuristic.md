@@ -3,7 +3,6 @@ title: Ep7 Availability Heuristic
 url: https://open.spotify.com/embed-podcast/episode/1GAm5H3ENUwta6FnExOQvA
 author: vatsal
 tags:
-  - Heuristics
 excerpt: The world is not what comes to mind first
 date: 2021-02-26
 featuredImage: uploads/availability-heuristic.jpg

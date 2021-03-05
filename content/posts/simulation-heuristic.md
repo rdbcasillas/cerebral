@@ -3,7 +3,6 @@ title: Ep2 Simulation Heuristic
 url: https://open.spotify.com/embed-podcast/episode/2lPDn6OoEdKCYtZx0gHuyz
 author: vatsal
 tags:
-  - Heuristics
 excerpt: Don't mix likelihood with ease of imagination 
 date: 2020-12-12
 featuredImage: uploads/simulation.jpg

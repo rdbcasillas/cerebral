@@ -3,7 +3,6 @@ title: Ep4 Negativity Bias
 url: https://open.spotify.com/embed-podcast/episode/3Xg3FuY7XDYbGpbphIrhk0
 author: vatsal 
 tags:
-  - Biases
 excerpt: Bad is stronger than good
 date: 2021-01-01
 featuredImage: uploads/negativity-bias.jpg

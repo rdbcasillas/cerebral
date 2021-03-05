@@ -3,7 +3,6 @@ title: Ep5 What is Thinking?
 url: https://open.spotify.com/embed-podcast/episode/7xPJbP7yneE5v4gTbCeaF0
 author: vatsal 
 tags:
-  - Biases
 excerpt: How to break down your thinking?
 date: 2021-01-18
 featuredImage: uploads/what-is-thinking.jpg
