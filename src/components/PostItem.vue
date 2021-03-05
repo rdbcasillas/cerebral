@@ -12,9 +12,6 @@
             {{ post.node.title }}
           </g-link>
         </h2>
-        <p class="subtitle is-6">
-          <g-link :to="post.node.author.path">{{ post.node.author.title }} </g-link>
-        </p>
         <p>{{ post.node.excerpt }}</p>
       </div>
       <div>

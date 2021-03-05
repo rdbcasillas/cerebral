@@ -8,7 +8,7 @@
             <article class="card grid-item" v-for="edge in $page.posts.edges" :key="edge.node.id">
               <div class="card-image">
                 <g-link :to="edge.node.path">
-                  <figure class="image is-16by9">
+                  <figure class="image is-4by5">
                     <img
                       :src="`../../${edge.node.featuredImage}`"
                       :alt="`${edge.node.title} image`"
@@ -27,11 +27,6 @@
                         {{ edge.node.title }}
                       </g-link>
                     </h2>
-                    <p class="subtitle is-6">
-                      <g-link :to="edge.node.author.path">
-                        {{ edge.node.author.title }}
-                      </g-link>
-                    </p>
                   </div>
                 </div>
 

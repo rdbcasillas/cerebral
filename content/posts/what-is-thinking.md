@@ -1,0 +1,51 @@
+---
+title: Ep5 What is Thinking? 
+url: https://open.spotify.com/embed-podcast/episode/7xPJbP7yneE5v4gTbCeaF0
+author: vatsal 
+tags:
+  - Biases
+excerpt: How to break down your thinking?
+date: 2021-01-18
+featuredImage: uploads/what-is-thinking.jpg
+---
+
+## Links
+Thinking and Deciding by Jonathan Baron https://www.goodreads.com/book/show/2466179.Thinking_and_Deciding
+
+-------
+
+## Music
+* Isolation by Audiobinger
+* Coming Storm by Keta
+* Ta Da! by Siddhartha Corsus
+
+---
+## Transcript
+>Thinking is something we all do every waking second of our life. Some of our thinking is un-conscious. It is quick, automatic and mostly effortless.  Then there is  more deliberate thinking, which is slower and involves more effort and self awareness. And Clearly, this more complex kind of thinking, is what has allowed humans to make so much progress compared to other animals.  But dividing thinking in these two separate types, can oversimplify  and conceal the rich complexity of human thinking.  This is because we now know that by deliberately paying attention or  bringing more awareness to our unconscious thinking, we can actually make it more similar to our conscious thinking.  This process can bring clarity in our chaotic mind by helping us understand WHY we say or do something.  This process can help us unpack our intuitive feelings and emotions.  And conversely, it turns out that it is also possible to go in other direction too.  This is what chess players do. This is what scientists do. In fact, all knowledge workers do this. Overtime, they become more efficient in thinking in particular ways.  Their conscious thinking in thei r domain, becomes unconscious. 
+
+>Thinking is a fascinating phenomenon. And even though it is omnipresent, something every human being does all the time everywhere, it is quite revealing that most of our education systems don’t even bother to mention it once. All the focus is put into USING thinking for other means. For instance, using thinking to solve problems, to get good grades. This lack of attention towards thinking itself, to understand its nature,   underscores the problematic order of priorities in our schools and colleges. 
+
+>So this episode of Cerebral will be a mini-lecture in thinking. It is of course not possible to cover different aspects of something as complex as thinking in a single podcast. But today, we will try to at least deconstruct the thinking process.   Using the framework described in the textbook “Thinking and Deciding”, we will look into various pieces that come together in our minds to help us perform thinking. Unlike previous podcasts, we will not look into errors in this thinking process. Good or Bad, Wise or Unwise, Moral or Immoral, all thinking has some basic structure that is worth unpacking and understanding. So let’s get going. 
+
+>Thinking usually starts with a question or a decision to be made. So Let’s look at it through the lens of an actual decision that many people make on regular basis. Let’s say you are looking for a new apartment to settle into. How do you go about doing that? 
+
+>First, when you are looking for an apartment, your mind has these “goals” that you want that ideal apartment to satisfy. The apartment should have three bedrooms, two bathrooms. It should not be “too expensive”. It should be in a “nice society”.  Notice that the goals are often vague (too expensive, nice society) and we don’t always have a very clear idea of how exactly satisfying that particular goal would look like.  I will come back later to how  vagueness in goals can create confusion in decision making.   Another feature of Goals is that they  regularly get added or removed from our list as we get more data from the world. For instance, after talking to a friend, you may realize that finding an apartment far away from traffic noise,  is a very important goal for you. After reading an article on harmful effects of gas stove, you may add a goal that finding an apartment with electric stove is an important goal for you.  So that’s the first thing to keep in mind. When it comes to answering a question or making a decision, we all have our individual goals and our thinking revolves around satisfaction of these goals. ~~When we *search for goals*, we ask, “What should I be trying to do?” or “What are my purposes in doing this?” ~~~
+
+
+>For goals to get satisfied, they need something to work on. Which brings me to the next piece in thinking process. Possibilities. Possibilities are all the possible answers to your apartment hunt. These would come from internet websites, suggestions from friends, ads in the newspaper by real estate companies. The job of our mind is then to evaluate these possibilities using the Goals we have. Is the possibility or apartment A better than possibility or apartment B at satisfying the goal of “nice society”?
+
+>But then how do we decide if a possibility actually satisfies our goals? We collect evidence! Evidence is the information that our mind stores or collects about a particular possibility.  It can come from within ourselves like from memory or from outside sources. “Rent for  apartment A is $1000 a month”, “Apartment B is in a society that has lots of old people”, “Apartments that are at the top of a building are usually warmer”.     Note that I don’t mean evidence here in a positive sense. When looking at a possibility, the evidence can either be good or bad for satisfying a particular goal. In fact it can be a completely neutral evidence if it doesn’t play any role in reaching towards or moving away from the goal. 
+
+>In that sense, one can argue that every piece of evidence has some weight to it.  If an evidence for a possibility has positive weight, then it makes our mind gravitate towards that possibility as a means of achieving the goal. For instance, for a person like me, Evidence like “this apartment is in a society with lots of trees” has a lot of positive weight to it when it comes to satisfying the goal  of living in a “nice society”.  But the same evidence will be completely neutral (or without much weight) for someone who has a different definition of “nice society”. For them nice society could just mean living among rich high class people. This is usually the root cause of disagreements among family or friends when they are planning to move into an apartment. They may have similar sounding goals like “nice society” but since there is no consensus on what that really means, they evaluate the  same piece of evidence for a particular possibility, differently. Their minds assign different weights to the same evidence. 
+
+>This whole process of using evidence to evaluate different possibilities is called as Inference. It is what our minds do all the time even for simplest decisions. For instance, let’s say you want to drink some wine and your mind forms the goal of finding the right cup for drinking wine  You search the kitchen and look at different possibilities, different kinds of cups.  You then evaluate those cups using your memory of what is traditionally considered a wine glass.  The shape of each cup, becomes the evidence for each of them, and you evaluate which of these possibilities best satisfy the goal of drinking whiskey in a cup. This is inference.  You do it without thinking all the time. 
+
+>This Inference business is not always easy of course.  A single piece of evidence can actually add confusion to our decision making process. Let’s use another decision that people make everyday. Let’s say I am looking to buy a car. I am deciding between two different possibilities and one of the possible car is large and heavy (evidence). Now what is interesting is that this evidence can either be positive, for instance when it comes to our goal of “safety” or it can be negative when it comes to the goal of “good mileage”.  That’s why it always a good idea to make your goals as concrete as possible. 
+
+>So there you have it: One way to think about thinking is under this framework which describes the process through five main elements: Firstly, a **question** or a decision that triggers the thinking process. Then come **Possibilities**, which are the possible answers to that question.  **Goals** are the anchors we use for our thinking process as they help us in  evaluating different possibilities. **Evidence** is the information,  from outside sources or internal thoughts, either strengthens or weakens a particular possibility depending on the weight our mind gives to that evidence.  And finally, this whole process, the use of different kinds of evidence to pick a possibility that best satisfies the goal  is called **inference.**    
+
+>Every belief you hold, every decision that you make  and every human behavior you evaluate can be broken down and understood using these components of thinking. And yes, there are lots of “errors” that can creep in while performing thinking but that’s because our mind’s larger goal is not to find the truth. Our primary goal when using thinking is to satisfy our mind. This evolutionary goal of satisfying our mind at all costs, even when our mental world clashes with the real world, is what has allowed humans for thousands of years to believe in conspiracy theories, to become more tribalistic, to delude ourselves and fall into all kinds of biases and fallacies that this podcast talks about. 
+
+ >But I think teaching people about thinking, and asking them to think about their thinking, will tremendously help in avoiding these errors. Apart from shining a light on our true motivations for saying or believing something,  it will also help us empathize better with people who we disagree with.  Which is the ultimate goal, isn’t it. To increase empathy and decrease conflicts within ourselves and among people. 
+
+>Ok, so that’s it for this week. I will be back next week to discuss another loophole in our thinking that can create a faulty mental model of the world.  If you have any concerns, questions or feedback, send them to celebralpodcast@protonmail.com. Thanks for listening, have fun thinking about thinking. 
